@@ -1,1 +1,1 @@
-echo "fd"
+echo "Deploying Build: %date% : %time%"
